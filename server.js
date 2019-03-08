@@ -1,5 +1,3 @@
-const fs = require("fs")
-const { join } = require("path")
 const next = require("next")
 const app = require("express")()
 const bodyParser = require("body-parser")
